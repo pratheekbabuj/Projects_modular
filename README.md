@@ -1,6 +1,6 @@
 ## ML END TO END ##
 
-### house price prediction ###
+### GEMSTONE price prediction ###
 '''
 
 conda create -p venv python==3.8
